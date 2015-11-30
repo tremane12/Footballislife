@@ -1,0 +1,24 @@
+header, footer {
+	background-color: blue;
+	color: #FFFF00;
+	padding: 20px;
+	text-align: center;
+}
+aside {
+	padding-top: 10px;
+	font-weight: bold;
+}
+title {
+	color: darkblue;
+
+}
+body{
+	background-color: 
+}
+h2 {
+	background-color: red;
+	color: #FFFF00
+}
+#unorderedlist{
+	color: darkgreen;
+}
